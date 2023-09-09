@@ -1,0 +1,3 @@
+[submodule "flutter_test_framework"]
+	path = flutter_test_framework
+	url = https://github.com/fabiorisantosquispe/flutter_test_framework.git
